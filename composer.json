@@ -23,7 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Micro\\Framework\\Autowire": "/"
+            "Micro\\Framework\\Autowire\\": "/"
         },
         "exclude-from-classmap": [
             "/Tests/"
